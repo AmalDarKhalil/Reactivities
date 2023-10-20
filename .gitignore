@@ -24,7 +24,9 @@ _ReSharper*/
 **/Thumbs.db
 **/bin
 **/obj
-
+*/appsettings.json
+*.db-wal
+*.db-shm
 # ASP.NET Scaffolding
 ScaffoldingTemplates/
 
