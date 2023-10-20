@@ -1,0 +1,187 @@
+# .gitignore for a .NET project with a React frontend
+
+# .NET
+bin/
+obj/
+*.user
+*.vscode
+*.suo
+*.cache
+*.log
+[Tt]humbs.db
+[Tt]est[Rr]esult*
+_ReSharper.*
+_ReSharper*/
+*.dbmdl
+[Tt]est[Rr]eport
+[Bb]in
+[Ll]og
+[Ll]ogs
+**/.svn
+**/.hg
+**/CVS
+**/.DS_Store
+**/Thumbs.db
+**/bin
+**/obj
+
+# ASP.NET Scaffolding
+ScaffoldingTemplates/
+
+# Visual Studio files
+.vscode/
+.vscodeignore
+*.suo
+*.user
+*.sln.docstates
+
+# React frontend
+ClientApp/node_modules/
+ClientApp/.pnp/
+ClientApp/pnpify/
+ClientApp/.yarn/
+ClientApp/.pnp.js
+ClientApp/.yarnrc
+ClientApp/yarn-error.log
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Rider
+.idea/
+*.sln.iml
+modules.xml
+workspace.xml
+misc.xml
+*.log
+*.swp
+*~
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Rider
+.idea/
+*.sln.iml
+modules.xml
+workspace.xml
+misc.xml
+*.log
+*.swp
+*~
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.userosscache
+*.suo
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
